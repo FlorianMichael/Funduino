@@ -1,4 +1,4 @@
-// https://github.com/FlorianMichael/Funduino
+// https://github.com/florianreuth/Funduino
 
 void setup() {
     for (int pin = 2; pin <= 11; pin++) {

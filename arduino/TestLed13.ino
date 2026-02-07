@@ -1,4 +1,4 @@
-// https://github.com/FlorianMichael/Funduino
+// https://github.com/florianreuth/Funduino
 
 void setup() {
     pinMode(13, OUTPUT);

@@ -1,4 +1,4 @@
-// https://github.com/FlorianMichael/Funduino
+// https://github.com/florianreuth/Funduino
 
 int LIGHT = 5;
 int SOUND = 7;
